@@ -1,3 +1,8 @@
+# Modified ShoonyaApi-js
+
+This repository is a customized version of the original ShoonyaApi-js, tailored for a specific project. Some functions were added to address missing features. Feel free to clone this module from here for your use.
+
+
 # ShoonyaAPI
 
 Api used to connect to Shoonya Server
